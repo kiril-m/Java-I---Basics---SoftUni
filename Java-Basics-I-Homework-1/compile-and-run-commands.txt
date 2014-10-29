@@ -1,0 +1,6 @@
+Problem 7:
+first command==> javac SumTwoNumbers.java
+second command==> java SumTwoNumbers
+
+Problem 10:
+The created .bat file uses only the path to the .jar file, since the jar file itself was exported together with the required libraries from Eclipse, so no additional definition of CLASSPATH was needed for the external libraries. The only thing to check is output directory since it will be different to user's computer. Enjoy! :) 
